@@ -1,0 +1,77 @@
+.sariq {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(161, 213, 255);
+    border-radius: 20px;
+    border: red solid 3px;
+    text-align: center;
+                                    
+}
+
+i {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+
+}
+
+h3 {
+    background-color: yellow;
+    color: rgb(79, 193, 79);
+    text-align: center;
+}
+
+.yashl {
+    color: green;
+}
+
+iframe {
+    width: 1500px;
+    height: 600px;
+}
+
+img {
+    width: 700px;
+    height: 350px;
+}
+
+button {
+    background-color: rgb(78, 166, 255);
+    color: white;
+}
+
+.qora {
+    background-color: black;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.yashil {
+    background-color: green;
+    color: white;
+}
+
+.kok {
+    background-color: blue;
+    color: white;
+}
+
+.ota {
+    width: 1300px;
+    height: 30px;
+}
+table{
+    text-align: center;
+    width: 50%;
+}
